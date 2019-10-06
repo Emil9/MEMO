@@ -1,0 +1,39 @@
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\bin\Debug\Gra dopasowanie.exe.config
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\bin\Debug\Gra dopasowanie.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\bin\Debug\Gra dopasowanie.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form1.resources
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Properties.Resources.resources
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.csproj.GenerateResource.Cache
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.csproj.CoreCompileInputs.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form2.resources
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form3.resources
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\bin\Debug\Gra dopasowanie.exe.config
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\bin\Debug\Gra dopasowanie.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\bin\Debug\Gra dopasowanie.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form1.resources
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form2.resources
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form3.resources
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Properties.Resources.resources
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.csproj.GenerateResource.Cache
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.csproj.CoreCompileInputs.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\Gra w odkrywanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form4.resources
+C:\Programowanie\Visual Studio 2017\Projekty\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form4.resources
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\bin\Debug\Gra dopasowanie.exe.config
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\bin\Debug\Gra dopasowanie.exe
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\bin\Debug\Gra dopasowanie.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form1.resources
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form2.resources
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form3.resources
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Form4.resources
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra_dopasowanie.Properties.Resources.resources
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.csproj.GenerateResource.cache
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.csproj.CoreCompileInputs.cache
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.exe
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Gra dopasowanie\Gra dopasowanie\obj\Debug\Gra dopasowanie.pdb
