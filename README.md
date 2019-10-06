@@ -14,7 +14,12 @@
 This is simple game of matching pairs. Click square and discover first picture. Click next square to find the same pic. You will win, if you find them all. The next level is similar but has numbers instead of pictures. 
 
 ## Screenshots
-![Example screenshot](./img)
+![Example screenshot](./img/1.png)
+![Example screenshot](./img/2.png)
+![Example screenshot](./img/3.png)
+![Example screenshot](./img/4.png)
+![Example screenshot](./img/5.png)
+![Example screenshot](./img/6.png)
 
 ## Technologies
 * C#
