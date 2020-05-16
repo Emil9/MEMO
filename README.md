@@ -36,4 +36,4 @@ Project is: finished
 Youtube Tutorial and college classes
 
 ## Contact
-Created by Emil Grabowski emilgrabowski14@gmail.com
+Created by Emil Grabowski emil.grabowski@interia.pl
